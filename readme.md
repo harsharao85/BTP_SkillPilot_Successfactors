@@ -1,3 +1,6 @@
+#Context Video: https://customer-hzpubzwln1i257gg.cloudflarestream.com/55b893bcda8beb1dc9693f0b364ab5c3/watch
+
+
 # SkillPilot — AI Learning Assistant for SAP SuccessFactors
 
 > **Built to demonstrate how a Domain Lead thinks:** one focused AI use case,
